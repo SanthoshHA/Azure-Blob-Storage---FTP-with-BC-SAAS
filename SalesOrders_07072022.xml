@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SalesOrders>
+  <Header OrderNumber="101001">
+    <SelltoCustomerNo>10000</SelltoCustomerNo>
+    <Line>
+      <Type>Item</Type>
+      <No>1896-S</No>
+      <Description>Mobile</Description>
+      <UnitPrice>1,404.30</UnitPrice>
+    </Line>
+    <Line>
+      <Type>Item</Type>
+      <No>1900-S</No>
+      <Description>Laptop</Description>
+      <UnitPrice>191.00</UnitPrice>
+    </Line>
+  </Header>
+  <Header OrderNumber="101002">
+    <SelltoCustomerNo>10000</SelltoCustomerNo>
+    <Line>
+      <Type>Item</Type>
+      <No>1906-S</No>
+      <Description>Headset</Description>
+      <UnitPrice>191.00</UnitPrice>
+    </Line>
+    <Line>
+      <Type>Item</Type>
+      <No>1928-S</No>
+      <Description>Lamp</Description>
+      <UnitPrice>55.20</UnitPrice>
+    </Line>
+  </Header>
+</SalesOrders>
